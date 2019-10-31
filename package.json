@@ -1,0 +1,11 @@
+{
+  "name": "com.seanlib.volumetriclight",
+  "displayName": "SeanLib VolumetricLight",
+  "version": "1.0.0",
+  "description": "\u4f53\u79ef\u5149",
+  "keywords": [
+    "EditorPlus",
+    "Core"
+  ],
+  "category": "Core"
+}

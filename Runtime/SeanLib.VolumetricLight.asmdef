@@ -1,0 +1,14 @@
+{
+    "name": "SeanLib.VolumetricLight",
+    "references": [
+        "GUID:850ef7b5d689062428b62ab8db2c6304"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
